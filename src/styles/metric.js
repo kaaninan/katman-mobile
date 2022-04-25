@@ -1,0 +1,1 @@
+export const paddingScreen = 20
